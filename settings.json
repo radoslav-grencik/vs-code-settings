@@ -1,0 +1,138 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "rogalmic.vscode-xml-complete"
+  },
+  "auto-close-tag.SublimeText3Mode": true,
+  "auto-close-tag.activationOnLanguage": ["*"],
+  "auto-close-tag.fullMode": true,
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "breadcrumbs.enabled": true,
+  "comment-divider.length": 60,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.accessibilitySupport": "off",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.detectIndentation": true,
+  "editor.fontFamily": "JetBrains Mono Light",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlineSuggest.enabled": true,
+  "editor.renderControlCharacters": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 160,
+  "emmet.includeLanguages": {
+    "latte": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "eslint.packageManager": "yarn",
+  "eslint.run": "onSave",
+  "eslint.useESLintClass": true,
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "filesFirst",
+  "files.autoGuessEncoding": true,
+  "files.autoSave": "afterDelay",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.allowForcePush": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.pullBeforeCheckout": true,
+  "git.showPushSuccessNotification": true,
+  "git.supportCancellation": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true
+  },
+  "html.format.wrapLineLength": 80,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "material-icon-theme.folders.color": "#43a047",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "php-cs-fixer.allowRisky": true,
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": true,
+  "prettier.endOfLine": "lf",
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.insertPragma": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.proseWrap": "preserve",
+  "prettier.quoteProps": "as-needed",
+  "prettier.requirePragma": false,
+  "prettier.semi": true,
+  "prettier.singleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "es5",
+  "prettier.useTabs": false,
+  "prettier.vueIndentScriptAndStyle": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.explorerKind": "integrated",
+  "terminal.integrated.confirmOnExit": "hasChildProcesses",
+  "terminal.integrated.copyOnSelection": false,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.enableMultiLinePasteWarning": true,
+  "terminal.integrated.fontFamily": "MesloLGM NF",
+  "terminal.integrated.fontWeight": "400",
+  "terminal.integrated.fontWeightBold": "400",
+  "terminal.integrated.tabs.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.visible": true,
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.editor.labelFormat": "short",
+  "workbench.editorAssociations": {
+    "git-rebase-todo": "default"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.panel.defaultLocation": "bottom",
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true,
+  "workbench.tree.indent": 14
+}
