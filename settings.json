@@ -78,12 +78,10 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
   "git.allowForcePush": true,
-  "git.autofetch": true,
+  "git.autofetch": "all",
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
   "git.pullBeforeCheckout": true,
-  "git.showPushSuccessNotification": true,
-  "git.supportCancellation": true,
   "github.copilot.enable": {
     "*": true,
     "yaml": true,
