@@ -2,6 +2,7 @@ code --install-extension aaron-bond.better-comments
 code --install-extension arcanis.vscode-zipfs
 code --install-extension astro-build.astro-vscode
 code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension bradlc.vscode-tailwindcss
 code --install-extension codezombiech.gitignore
 code --install-extension cvergne.vscode-php-getters-setters-cv
 code --install-extension dbaeumer.vscode-eslint
@@ -14,6 +15,8 @@ code --install-extension formulahendry.auto-complete-tag
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension GitHub.copilot
 code --install-extension IBM.output-colorizer
+code --install-extension jeff-hykin.better-dockerfile-syntax
+code --install-extension jeff-hykin.polacode-2019
 code --install-extension Kasik96.latte
 code --install-extension mansoorkhan96.php-cs-fixer
 code --install-extension mariusschulz.yarn-lock-syntax
@@ -34,7 +37,6 @@ code --install-extension PKief.material-icon-theme
 code --install-extension PKief.material-product-icons
 code --install-extension Prisma.prisma
 code --install-extension rogalmic.vscode-xml-complete
-code --install-extension sastan.twind-intellisense
 code --install-extension solidjs-community.solid-snippets
 code --install-extension stackbreak.comment-divider
 code --install-extension stkb.rewrap

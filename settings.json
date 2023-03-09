@@ -58,6 +58,9 @@
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": "active",
   "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
   "editor.renderControlCharacters": true,
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
@@ -72,6 +75,9 @@
   "eslint.useESLintClass": true,
   "explorer.compactFolders": false,
   "explorer.sortOrder": "filesFirst",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   "files.autoGuessEncoding": true,
   "files.autoSave": "afterDelay",
   "files.insertFinalNewline": true,
@@ -108,7 +114,12 @@
   "prettier.trailingComma": "es5",
   "prettier.useTabs": false,
   "prettier.vueIndentScriptAndStyle": false,
+  "rewrap.autoWrap.enabled": true,
+  "rewrap.wholeComment": true,
+  "rewrap.wrappingColumn": 80,
   "security.workspace.trust.untrustedFiles": "open",
+  "tailwindCSS.emmetCompletions": true,
+  "telemetry.telemetryLevel": "off",
   "terminal.explorerKind": "integrated",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.copyOnSelection": false,
