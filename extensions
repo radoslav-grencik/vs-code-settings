@@ -16,7 +16,6 @@ code --install-extension formulahendry.auto-rename-tag
 code --install-extension GitHub.copilot
 code --install-extension IBM.output-colorizer
 code --install-extension jeff-hykin.better-dockerfile-syntax
-code --install-extension jeff-hykin.polacode-2019
 code --install-extension Kasik96.latte
 code --install-extension mansoorkhan96.php-cs-fixer
 code --install-extension mariusschulz.yarn-lock-syntax
