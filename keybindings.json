@@ -1,7 +1,7 @@
 [
   {
-    "key": "shift+delete",
     "command": "editor.action.deleteLines",
+    "key": "shift+delete",
     "when": "textInputFocus && !editorReadonly"
   }
 ]

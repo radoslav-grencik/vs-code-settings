@@ -38,10 +38,10 @@
   "[xml]": {
     "editor.defaultFormatter": "rogalmic.vscode-xml-complete"
   },
-  "auto-close-tag.SublimeText3Mode": true,
   "auto-close-tag.activationOnLanguage": ["*"],
   "auto-close-tag.fullMode": true,
   "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+  "auto-close-tag.SublimeText3Mode": true,
   "auto-rename-tag.activationOnLanguage": ["*"],
   "breadcrumbs.enabled": true,
   "comment-divider.length": 60,
@@ -91,19 +91,19 @@
   "git.pullBeforeCheckout": true,
   "github.copilot.enable": {
     "*": true,
-    "yaml": true,
+    "markdown": true,
     "plaintext": true,
-    "markdown": true
+    "yaml": true
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-icon-theme.activeIconPack": "nest",
   "material-icon-theme.files.associations": {
-    "webpack.dev.config.js": "webpack",
     "webpack.dev.config.cjs": "webpack",
-    "webpack.dev.config.mjs": "webpack",
-    "webpack.dev.config.ts": "webpack",
     "webpack.dev.config.cts": "webpack",
-    "webpack.dev.config.mts": "webpack"
+    "webpack.dev.config.js": "webpack",
+    "webpack.dev.config.mjs": "webpack",
+    "webpack.dev.config.mts": "webpack",
+    "webpack.dev.config.ts": "webpack"
   },
   "material-icon-theme.folders.color": "#43a047",
   "material-icon-theme.hidesExplorerArrows": true,
