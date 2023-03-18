@@ -1,4 +1,7 @@
 {
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -74,6 +77,13 @@
   "eslint.lintTask.enable": true,
   "eslint.packageManager": "yarn",
   "eslint.run": "onSave",
+  "eslint.validate": [
+    "astro",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
   "explorer.compactFolders": false,
   "explorer.sortOrder": "filesFirst",
   "files.associations": {
