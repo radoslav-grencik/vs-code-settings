@@ -23,6 +23,9 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "[php]": {
     "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer"
   },
