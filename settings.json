@@ -51,6 +51,17 @@
   "auto-rename-tag.activationOnLanguage": ["*"],
   "breadcrumbs.enabled": true,
   "comment-divider.length": 60,
+  "cucumber.features": ["cypress/e2e/**/*.feature"],
+  "cucumber.glue": [
+    "cypress/e2e/**/*.js",
+    "cypress/e2e/**/*.jsx",
+    "cypress/e2e/**/*.ts",
+    "cypress/e2e/**/*.tsx",
+    "cypress/support/step_definitions/**/*.js",
+    "cypress/support/step_definitions/**/*.jsx",
+    "cypress/support/step_definitions/**/*.ts",
+    "cypress/support/step_definitions/**/*.tsx"
+  ],
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,

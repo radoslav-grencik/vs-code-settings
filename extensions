@@ -4,6 +4,7 @@ code --install-extension astro-build.astro-vscode
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension codezombiech.gitignore
+code --install-extension CucumberOpen.cucumber-official
 code --install-extension cvergne.vscode-php-getters-setters-cv
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension denoland.vscode-deno
