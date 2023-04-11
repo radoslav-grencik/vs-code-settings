@@ -120,6 +120,8 @@
     "plaintext": true,
     "yaml": true
   },
+  "intellicodeCompletions.language.javascript": true,
+  "intellicodeCompletions.language.typescript": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-icon-theme.activeIconPack": "nest",
   "material-icon-theme.files.associations": {
@@ -133,6 +135,7 @@
   "material-icon-theme.folders.color": "#43a047",
   "material-icon-theme.hidesExplorerArrows": true,
   "php-cs-fixer.allowRisky": true,
+  "php-cs-fixer.fixOnSave": false,
   "prettier.arrowParens": "always",
   "prettier.bracketSpacing": true,
   "prettier.endOfLine": "lf",
