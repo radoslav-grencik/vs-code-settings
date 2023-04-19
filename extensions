@@ -47,4 +47,5 @@ code --install-extension VisualStudioExptTeam.vscodeintellicode-completions
 code --install-extension Vue.volar
 code --install-extension Vue.vscode-typescript-vue-plugin
 code --install-extension wix.vscode-import-cost
+code --install-extension xdebug.php-debug
 code --install-extension yoavbls.pretty-ts-errors
