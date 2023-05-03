@@ -2,14 +2,26 @@
   "[astro]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[apacheconf]": {
+    "editor.tabSize": 4
+  },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[dockercompose]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
   },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[hosts]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -23,14 +35,24 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[latte]": {
+    "editor.tabSize": 4
+  },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[php]": {
-    "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer"
+    "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer",
+    "editor.tabSize": 4
   },
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -38,43 +60,31 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[vue]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "[xml]": {
     "editor.defaultFormatter": "rogalmic.vscode-xml-complete"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "auto-close-tag.activationOnLanguage": ["*"],
   "auto-close-tag.fullMode": true,
   "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
-  "auto-close-tag.SublimeText3Mode": true,
-  "auto-rename-tag.activationOnLanguage": ["*"],
   "breadcrumbs.enabled": true,
   "comment-divider.length": 60,
-  "cucumber.features": ["cypress/e2e/**/*.feature"],
-  "cucumber.glue": [
-    "cypress/e2e/**/*.js",
-    "cypress/e2e/**/*.jsx",
-    "cypress/e2e/**/*.ts",
-    "cypress/e2e/**/*.tsx",
-    "cypress/support/step_definitions/**/*.js",
-    "cypress/support/step_definitions/**/*.jsx",
-    "cypress/support/step_definitions/**/*.ts",
-    "cypress/support/step_definitions/**/*.tsx"
-  ],
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "editor.detectIndentation": true,
+  "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono Light",
   "editor.fontLigatures": true,
   "editor.fontSize": 13,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": "active",
   "editor.inlineSuggest.enabled": true,
+  "editor.insertSpaces": true,
   "editor.quickSuggestions": {
     "strings": true
   },
@@ -95,6 +105,7 @@
     "astro",
     "javascript",
     "javascriptreact",
+    "svelte",
     "typescript",
     "typescriptreact"
   ],
@@ -155,6 +166,7 @@
   "rewrap.wholeComment": true,
   "rewrap.wrappingColumn": 80,
   "security.workspace.trust.untrustedFiles": "open",
+  "shellcheck.run": "onSave",
   "tailwindCSS.emmetCompletions": true,
   "telemetry.telemetryLevel": "off",
   "terminal.explorerKind": "integrated",
