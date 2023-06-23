@@ -11,9 +11,6 @@ code --install-extension denoland.vscode-deno
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension esbenp.prettier-vscode
-code --install-extension formulahendry.auto-close-tag
-code --install-extension formulahendry.auto-complete-tag
-code --install-extension formulahendry.auto-rename-tag
 code --install-extension foxundermoon.shell-format
 code --install-extension GitHub.copilot
 code --install-extension IBM.output-colorizer
