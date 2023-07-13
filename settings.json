@@ -36,6 +36,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[latte]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.tabSize": 4
   },
   "[markdown]": {
@@ -147,6 +148,7 @@
   "php-cs-fixer.fixOnSave": false,
   "prettier.arrowParens": "always",
   "prettier.bracketSpacing": true,
+  "prettier.documentSelectors": ["**/*.latte"],
   "prettier.endOfLine": "lf",
   "prettier.htmlWhitespaceSensitivity": "css",
   "prettier.insertPragma": false,
@@ -167,6 +169,9 @@
   "security.workspace.trust.untrustedFiles": "open",
   "shellcheck.run": "onSave",
   "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "latte": "html"
+  },
   "telemetry.telemetryLevel": "off",
   "terminal.explorerKind": "integrated",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
