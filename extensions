@@ -34,7 +34,6 @@ code --install-extension ms-vscode.remote-server
 code --install-extension nhoizey.gremlins
 code --install-extension PKief.material-icon-theme
 code --install-extension PKief.material-product-icons
-code --install-extension Prisma.prisma
 code --install-extension rogalmic.vscode-xml-complete
 code --install-extension solidjs-community.solid-snippets
 code --install-extension stackbreak.comment-divider
