@@ -75,7 +75,7 @@
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": 'explicit'
   },
   "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono Light",
