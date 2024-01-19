@@ -75,7 +75,7 @@
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": 'explicit'
+    "source.fixAll": "explicit"
   },
   "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono Light",
@@ -165,6 +165,7 @@
   "rewrap.wholeComment": true,
   "rewrap.wrappingColumn": 80,
   "search.showLineNumbers": true,
+  "security.allowedUNCHosts": ["wsl.localhost"],
   "security.workspace.trust.untrustedFiles": "open",
   "shellcheck.run": "onSave",
   "tailwindCSS.emmetCompletions": true,
