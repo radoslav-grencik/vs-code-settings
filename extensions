@@ -6,7 +6,6 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension Breadnaught.vscode-ignore
 code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
-code --install-extension denoland.vscode-deno
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
