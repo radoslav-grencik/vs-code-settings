@@ -9,7 +9,6 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
-code --install-extension figma.figma-vscode-extension
 code --install-extension foxundermoon.shell-format
 code --install-extension GitHub.copilot
 code --install-extension IBM.output-colorizer
