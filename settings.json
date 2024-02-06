@@ -180,7 +180,7 @@
   "terminal.integrated.cursorStyle": "underline",
   "terminal.integrated.defaultProfile.linux": "zsh",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.enableMultiLinePasteWarning": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "auto",
   "terminal.integrated.fontFamily": "MesloLGM NF",
   "terminal.integrated.fontWeight": "400",
   "terminal.integrated.fontWeightBold": "500",
