@@ -161,6 +161,7 @@
   "prettier.tabWidth": 2,
   "prettier.trailingComma": "es5",
   "prettier.useTabs": false,
+  "remote.autoForwardPortsSource": "hybrid",
   "rewrap.autoWrap.enabled": true,
   "rewrap.wholeComment": true,
   "rewrap.wrappingColumn": 80,
