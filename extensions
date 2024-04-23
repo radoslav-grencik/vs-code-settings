@@ -31,11 +31,11 @@ code --install-extension ms-vscode.remote-server
 code --install-extension nhoizey.gremlins
 code --install-extension PKief.material-icon-theme
 code --install-extension PKief.material-product-icons
-code --install-extension rogalmic.vscode-xml-complete
 code --install-extension solidjs-community.solid-snippets
 code --install-extension stackbreak.comment-divider
 code --install-extension stkb.rewrap
 code --install-extension svelte.svelte-vscode
 code --install-extension timonwong.shellcheck
+code --install-extension vitaliymaz.vscode-svg-previewer
 code --install-extension xdebug.php-debug
 code --install-extension yoavbls.pretty-ts-errors
