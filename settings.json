@@ -169,6 +169,8 @@
   "security.allowedUNCHosts": ["wsl.localhost"],
   "security.workspace.trust.untrustedFiles": "open",
   "shellcheck.run": "onSave",
+  "svg.preview.boundingBox": true,
+  "svg.preview.transparencyGrid": true,
   "tailwindCSS.emmetCompletions": true,
   "tailwindCSS.includeLanguages": {
     "latte": "html"
