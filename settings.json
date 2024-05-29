@@ -1,9 +1,9 @@
 {
-  "[astro]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "[apacheconf]": {
     "editor.tabSize": 4
+  },
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -70,10 +70,7 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "breadcrumbs.enabled": true,
   "comment-divider.length": 60,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit"
@@ -84,21 +81,18 @@
   "editor.fontSize": 13,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": "active",
-  "editor.inlineSuggest.enabled": true,
-  "editor.insertSpaces": true,
   "editor.linkedEditing": true,
   "editor.quickSuggestions": {
-    "strings": true
+    "comments": "on",
+    "strings": "on"
   },
   "editor.renderControlCharacters": true,
-  "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 160,
   "emmet.includeLanguages": {
     "latte": "html"
   },
-  "emmet.triggerExpansionOnTab": true,
   "eslint.ignoreUntitled": true,
   "eslint.lintTask.enable": true,
   "eslint.run": "onSave",
@@ -128,14 +122,13 @@
   "git.pullBeforeCheckout": true,
   "github.copilot.editor.enableAutoCompletions": true,
   "github.copilot.enable": {
-    "*": true,
-    "markdown": true,
-    "plaintext": true,
-    "yaml": true
+    "markdown": "true",
+    "plaintext": "true",
+    "scminput": "true"
   },
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.activeIconPack": "react",
   "material-icon-theme.files.associations": {
     "webpack.dev.config.cjs": "webpack",
     "webpack.dev.config.cts": "webpack",
@@ -147,25 +140,9 @@
   "material-icon-theme.folders.color": "#43a047",
   "material-icon-theme.hidesExplorerArrows": true,
   "php-cs-fixer.fixOnSave": false,
-  "prettier.arrowParens": "always",
-  "prettier.bracketSpacing": true,
   "prettier.documentSelectors": ["**/*.latte"],
-  "prettier.endOfLine": "lf",
-  "prettier.htmlWhitespaceSensitivity": "css",
-  "prettier.insertPragma": false,
-  "prettier.jsxSingleQuote": false,
-  "prettier.printWidth": 80,
-  "prettier.proseWrap": "preserve",
-  "prettier.quoteProps": "as-needed",
-  "prettier.requirePragma": false,
-  "prettier.semi": true,
   "prettier.singleQuote": true,
-  "prettier.tabWidth": 2,
-  "prettier.trailingComma": "es5",
-  "prettier.useTabs": false,
-  "remote.autoForwardPortsSource": "hybrid",
   "search.showLineNumbers": true,
-  "security.allowedUNCHosts": ["wsl.localhost"],
   "security.workspace.trust.untrustedFiles": "open",
   "shellcheck.run": "onSave",
   "svg.preview.boundingBox": true,
@@ -175,22 +152,17 @@
     "latte": "html"
   },
   "telemetry.telemetryLevel": "off",
-  "terminal.explorerKind": "integrated",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
-  "terminal.integrated.copyOnSelection": false,
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "underline",
   "terminal.integrated.defaultProfile.linux": "zsh",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.enableMultiLinePasteWarning": "auto",
   "terminal.integrated.fontFamily": "MesloLGM NF",
   "terminal.integrated.fontWeight": "400",
   "terminal.integrated.fontWeightBold": "500",
   "terminal.integrated.scrollback": 10000,
-  "terminal.integrated.tabs.enabled": true,
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "window.commandCenter": true,
   "workbench.colorTheme": "Material Theme Darker High Contrast",
   "workbench.editor.labelFormat": "short",
   "workbench.editorAssociations": {
@@ -198,7 +170,6 @@
   },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.productIconTheme": "material-product-icons",
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.statusBar.visible": true,
+  "workbench.startupEditor": "none",
   "workbench.tree.indent": 14
 }
