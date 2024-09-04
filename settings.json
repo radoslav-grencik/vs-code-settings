@@ -106,6 +106,7 @@
   ],
   "explorer.compactFolders": false,
   "explorer.sortOrder": "filesFirst",
+  "extensions.ignoreRecommendations": true,
   "files.associations": {
     "*.css": "tailwindcss"
   },
