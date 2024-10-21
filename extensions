@@ -6,6 +6,7 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension breadnaught.vscode-ignore
 code --install-extension davidanson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension denoland.vscode-deno
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
@@ -30,7 +31,6 @@ code --install-extension ms-vscode-remote.vscode-remote-extensionpack
 code --install-extension ms-vscode.remote-explorer
 code --install-extension ms-vscode.remote-server
 code --install-extension nhoizey.gremlins
-code --install-extension oven.bun-vscode
 code --install-extension pkief.material-icon-theme
 code --install-extension pkief.material-product-icons
 code --install-extension solidjs-community.solid-snippets
