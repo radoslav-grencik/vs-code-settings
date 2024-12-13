@@ -146,7 +146,6 @@
   "tailwindCSS.includeLanguages": {
     "latte": "html"
   },
-  "telemetry.telemetryLevel": "off",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "underline",
