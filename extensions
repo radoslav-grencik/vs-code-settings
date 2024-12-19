@@ -13,8 +13,6 @@ code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension foxundermoon.shell-format
-code --install-extension github.copilot
-code --install-extension github.copilot-chat
 code --install-extension ibm.output-colorizer
 code --install-extension jeff-hykin.better-dockerfile-syntax
 code --install-extension kasik96.latte
@@ -37,6 +35,7 @@ code --install-extension pkief.material-icon-theme
 code --install-extension pkief.material-product-icons
 code --install-extension solidjs-community.solid-snippets
 code --install-extension stackbreak.comment-divider
+code --install-extension supermaven.supermaven
 code --install-extension svelte.svelte-vscode
 code --install-extension timonwong.shellcheck
 code --install-extension vitaliymaz.vscode-svg-previewer
