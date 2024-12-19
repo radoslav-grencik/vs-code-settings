@@ -70,6 +70,7 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "chat.commandCenter.enabled": false,
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
