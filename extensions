@@ -1,4 +1,5 @@
 code --install-extension aaron-bond.better-comments
+code --install-extension ahmadalli.vscode-nginx-conf
 code --install-extension arcanis.vscode-zipfs
 code --install-extension astro-build.astro-vscode
 code --install-extension bmewburn.vscode-intelephense-client
