@@ -39,6 +39,5 @@ code --install-extension stackbreak.comment-divider
 code --install-extension supermaven.supermaven
 code --install-extension svelte.svelte-vscode
 code --install-extension timonwong.shellcheck
-code --install-extension vitaliymaz.vscode-svg-previewer
 code --install-extension xdebug.php-debug
 code --install-extension yoavbls.pretty-ts-errors
