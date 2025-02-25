@@ -9,8 +9,6 @@ code --install-extension davidanson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension denoland.vscode-deno
 code --install-extension dsznajder.es7-react-js-snippets
-code --install-extension equinusocio.vsc-material-theme
-code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension foxundermoon.shell-format
@@ -38,6 +36,7 @@ code --install-extension solidjs-community.solid-snippets
 code --install-extension stackbreak.comment-divider
 code --install-extension supermaven.supermaven
 code --install-extension svelte.svelte-vscode
+code --install-extension t3dotgg.vsc-material-theme-but-i-wont-sue-you
 code --install-extension timonwong.shellcheck
 code --install-extension xdebug.php-debug
 code --install-extension yoavbls.pretty-ts-errors
