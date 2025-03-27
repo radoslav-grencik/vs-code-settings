@@ -22,6 +22,10 @@ code --install-extension mikestead.dotenv
 code --install-extension mrmlnc.vscode-apache
 code --install-extension mrmlnc.vscode-scss
 code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-python.black-formatter
+code --install-extension ms-python.debugpy
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
 code --install-extension ms-vscode-remote.remote-ssh-edit
