@@ -49,6 +49,10 @@
     "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer",
     "editor.tabSize": 4
   },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.tabSize": 4
+  },
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
