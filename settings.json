@@ -126,6 +126,10 @@
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
   "git.pullBeforeCheckout": true,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-icon-theme.activeIconPack": "react",
