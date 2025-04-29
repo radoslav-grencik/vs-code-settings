@@ -12,6 +12,8 @@ code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension foxundermoon.shell-format
+code --install-extension github.copilot
+code --install-extension github.copilot-chat
 code --install-extension ibm.output-colorizer
 code --install-extension jeff-hykin.better-dockerfile-syntax
 code --install-extension kasik96.latte
@@ -21,7 +23,7 @@ code --install-extension mariusschulz.yarn-lock-syntax
 code --install-extension mikestead.dotenv
 code --install-extension mrmlnc.vscode-apache
 code --install-extension mrmlnc.vscode-scss
-code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-azuretools.vscode-containers
 code --install-extension ms-python.black-formatter
 code --install-extension ms-python.debugpy
 code --install-extension ms-python.python
