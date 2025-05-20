@@ -129,7 +129,6 @@
   "github.copilot.enable": {
     "*": false
   },
-  "github.copilot.nextEditSuggestions.enabled": false,
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-icon-theme.activeIconPack": "react",
@@ -138,6 +137,7 @@
   "php-cs-fixer.fixOnSave": false,
   "prettier.documentSelectors": ["**/*.latte"],
   "prettier.singleQuote": true,
+  "remote.autoForwardPortsSource": "hybrid",
   "search.showLineNumbers": true,
   "security.workspace.trust.untrustedFiles": "open",
   "shellcheck.run": "onSave",
