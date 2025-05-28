@@ -1,7 +1,23 @@
 [
   {
+    "command": "-editor.action.clipboardCutAction",
+    "key": "shift+delete"
+  },
+  {
     "command": "editor.action.deleteLines",
     "key": "shift+delete",
     "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "command": "-supermaven.addToChat",
+    "key": "ctrl+shift+i"
+  },
+  {
+    "command": "-supermaven.editWithSupermaven",
+    "key": "ctrl+i"
+  },
+  {
+    "command": "-supermaven.newConversationTab",
+    "key": "alt+j"
   }
 ]
