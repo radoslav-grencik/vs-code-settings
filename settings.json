@@ -141,6 +141,7 @@
   "search.showLineNumbers": true,
   "security.workspace.trust.untrustedFiles": "open",
   "shellcheck.run": "onSave",
+  "supermaven.enableFixWithSupermaven": false,
   "tailwindCSS.emmetCompletions": true,
   "tailwindCSS.includeLanguages": {
     "latte": "html"
