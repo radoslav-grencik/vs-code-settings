@@ -77,7 +77,6 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "chat.commandCenter.enabled": false,
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
@@ -163,9 +162,6 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorTheme": "Material Theme Darker High Contrast",
   "workbench.editor.labelFormat": "short",
-  "workbench.editorAssociations": {
-    "git-rebase-todo": "default"
-  },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.productIconTheme": "material-product-icons",
   "workbench.startupEditor": "none",
