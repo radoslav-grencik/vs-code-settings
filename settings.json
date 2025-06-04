@@ -80,7 +80,12 @@
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit"
+    "source.addMissingImports": "explicit",
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.removeUnusedImports": "explicit",
+    "source.sort.json": "explicit",
+    "source.sortImports": "explicit"
   },
   "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono Light",
