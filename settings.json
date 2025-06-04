@@ -81,10 +81,7 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "source.addMissingImports": "explicit",
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit",
-    "source.removeUnusedImports": "explicit",
-    "source.sortImports": "explicit"
+    "source.fixAll": "explicit"
   },
   "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono Light",
