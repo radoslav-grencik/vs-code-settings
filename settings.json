@@ -84,7 +84,6 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.removeUnusedImports": "explicit",
-    "source.sort.json": "explicit",
     "source.sortImports": "explicit"
   },
   "editor.detectIndentation": false,
