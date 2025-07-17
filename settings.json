@@ -12,7 +12,7 @@
     "editor.defaultFormatter": "ms-azuretools.vscode-containers"
   },
   "[dockerfile]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
   },
   "[hosts]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
