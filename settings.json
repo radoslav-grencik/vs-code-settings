@@ -134,7 +134,6 @@
   },
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "material-icon-theme.activeIconPack": "react",
   "material-icon-theme.folders.color": "#43a047",
   "material-icon-theme.hidesExplorerArrows": true,
   "php-cs-fixer.fixOnSave": false,
