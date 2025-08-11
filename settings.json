@@ -14,14 +14,8 @@
   "[dockerfile]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-containers"
   },
-  "[hosts]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
-  },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[ignore]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "[java]": {
     "editor.tabSize": 4
@@ -60,7 +54,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
   },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
