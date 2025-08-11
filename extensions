@@ -8,12 +8,12 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension edwinhuish.better-comments-next
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
-code --install-extension foxundermoon.shell-format
 code --install-extension github.copilot
 code --install-extension github.copilot-chat
 code --install-extension ibm.output-colorizer
 code --install-extension kasik96.latte
 code --install-extension lacroixdavid1.vscode-format-context-menu
+code --install-extension mads-hartmann.bash-ide-vscode
 code --install-extension mansoorkhan96.php-cs-fixer
 code --install-extension mikestead.dotenv
 code --install-extension mrmlnc.vscode-apache
@@ -38,6 +38,5 @@ code --install-extension stackbreak.comment-divider
 code --install-extension supermaven.supermaven
 code --install-extension svelte.svelte-vscode
 code --install-extension t3dotgg.vsc-material-theme-but-i-wont-sue-you
-code --install-extension timonwong.shellcheck
 code --install-extension xdebug.php-debug
 code --install-extension yoavbls.pretty-ts-errors
