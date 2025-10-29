@@ -71,6 +71,7 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "codeium.enableCodeLens": "hide_x",
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
@@ -138,8 +139,6 @@
   "remote.autoForwardPortsSource": "hybrid",
   "search.showLineNumbers": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "shellcheck.run": "onSave",
-  "supermaven.enableFixWithSupermaven": false,
   "tailwindCSS.emmetCompletions": true,
   "tailwindCSS.includeLanguages": {
     "latte": "html"
