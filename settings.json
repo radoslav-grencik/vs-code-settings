@@ -71,11 +71,11 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "chat.disableAIFeatures": true,
   "codeium.enableCodeLens": "hide_x",
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.addMissingImports": "explicit",
     "source.fixAll": "explicit"
   },
   "editor.detectIndentation": false,
@@ -125,9 +125,6 @@
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
   "git.pullBeforeCheckout": true,
-  "github.copilot.enable": {
-    "*": false
-  },
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-icon-theme.folders.color": "#43a047",
