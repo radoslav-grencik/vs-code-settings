@@ -9,8 +9,6 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension edwinhuish.better-comments-next
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
-code --install-extension github.copilot
-code --install-extension github.copilot-chat
 code --install-extension ibm.output-colorizer
 code --install-extension kasik96.latte
 code --install-extension lacroixdavid1.vscode-format-context-menu
