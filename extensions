@@ -34,6 +34,7 @@ code --install-extension ms-vscode.remote-server
 code --install-extension nhoizey.gremlins
 code --install-extension pkief.material-icon-theme
 code --install-extension pkief.material-product-icons
+code --install-extension saoudrizwan.claude-dev
 code --install-extension stackbreak.comment-divider
 code --install-extension svelte.svelte-vscode
 code --install-extension t3dotgg.vsc-material-theme-but-i-wont-sue-you
