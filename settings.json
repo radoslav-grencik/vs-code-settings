@@ -71,8 +71,6 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "chat.disableAIFeatures": true,
-  "codeium.enableCodeLens": "hide_x",
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
@@ -155,7 +153,6 @@
   "workbench.colorTheme": "Material Theme Darker High Contrast",
   "workbench.editor.labelFormat": "short",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.productIconTheme": "material-product-icons",
   "workbench.startupEditor": "none",
-  "workbench.tree.indent": 14
+  "workbench.tree.indent": 13
 }
