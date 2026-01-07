@@ -6,6 +6,7 @@ code --install-extension breadnaught.vscode-ignore
 code --install-extension davidanson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dbcode.dbcode
+code --install-extension denoland.vscode-deno
 code --install-extension edwinhuish.better-comments-next
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
