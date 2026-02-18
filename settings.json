@@ -74,7 +74,7 @@
   "comment-divider.length": 60,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit",
   },
   "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono Light",
