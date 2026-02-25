@@ -126,6 +126,7 @@
   "javascript.preferences.importModuleSpecifier": "relative",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-icon-theme.folders.color": "#43a047",
+  "material-icon-theme.hidesExplorerArrows": true,
   "php-cs-fixer.fixOnSave": false,
   "php-cs-fixer.ignoreEnv": true,
   "prettier.documentSelectors": ["**/*.latte"],
